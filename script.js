@@ -22,6 +22,6 @@ if (d === 0) {
   alert("X2: " + Math.floor(x2));
 } else {
   alert("Дискриминант отрицательный");
-  alert("√" + d);
+  alert("√"+d);
 }
 }
